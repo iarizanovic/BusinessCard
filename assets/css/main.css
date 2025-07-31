@@ -132,7 +132,7 @@
 		font-weight: 300;
 		line-height: 2;
 		letter-spacing: 0.2em;
-		text-transform: uppercase;
+		/*text-transform: uppercase;*/
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -196,9 +196,11 @@
 		}
 
 	h1 {
-		font-size: 1.85em;
+		font-size: 2.2em;
 		letter-spacing: 0.22em;
-		margin: 0 0 0.525em 0;
+		margin: 0 0 0.25em 0;
+		font-weight: bold;
+		/*margin: 0 0 0.525em 0;*/
 	}
 
 	h2 {
@@ -508,7 +510,7 @@
 			cursor: default;
 			list-style: none;
 			padding-left: 0;
-			margin-top: -0.675em;
+			/*margin-top: -0.675em;*/
 		}
 
 			ul.icons li {
